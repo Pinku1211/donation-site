@@ -1,0 +1,14 @@
+div.background-img {
+    content: "";
+    background-image: url("https://i.ibb.co/Wf9cvWQ/Clothing.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+div.background h1 input button {
+    position: relative;
+    color: black
+
+}

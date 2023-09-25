@@ -1,0 +1,135 @@
+      [
+         {
+           "id": 1,
+           "picture": "https://i.ibb.co/Wf9cvWQ/Clothing.png",
+           "title": "Donation for Clothing Drive",
+           "category": "Clothing",
+           "category_bg_color": "#79C23F33",
+           "card_bg_color": "#79C23F26",
+           "text_button_bg_color": "#79C23F",
+           "description": "Your contribution will help provide clothing to those in need. Give the gift of warmth and comfort today.",
+           "price": 220
+         },
+         {
+           "id": 2,
+           "picture": "https://i.ibb.co/T8Lh4PN/Education.png",
+           "title": "Education Support Fund",
+           "category": "Education",
+           "category_bg_color": "#FF444A33",
+           "card_bg_color": "#FF444A26",
+           "text_button_bg_color": "#FF444A",
+           "description": "Empower individuals with the gift of education. Your donation can make a significant impact on someone's future.",
+           "price": 250
+         },
+         {
+           "id": 3,
+           "picture": "https://i.ibb.co/vYRWT5b/Health.png",
+           "title": "Healthcare Access Initiative",
+           "category": "Health",
+           "category_bg_color": "#0052FF33",
+           "card_bg_color": "#0052FF26",
+           "text_button_bg_color": "#0052FF",
+           "description": "Support our mission to improve healthcare access for communities in need. Your donation can save lives.",
+           "price": 200
+         },
+         {
+           "id": 4,
+           "picture": "https://i.ibb.co/z2rWBR7/Food.png",
+           "title": "Food Relief Program",
+           "category": "Food",
+           "category_bg_color": "#F8714733",
+           "card_bg_color": "#F8714726",
+           "text_button_bg_color": "#F87147",
+           "description": "Help combat hunger by contributing to our food relief program. Your donation ensures that no one goes to bed hungry.",
+           "price": 240
+         },
+         {
+           "id": 5,
+           "picture": "https://i.ibb.co/T8Lh4PN/Education.png",
+           "title": "Education Support Fund",
+           "category": "Education",
+           "category_bg_color": "#FF444A33",
+           "card_bg_color": "#FF444A26",
+           "text_button_bg_color": "#FF444A",
+           "description": "Empower individuals with the gift of education. Your donation can make a significant impact on someone's future.",
+           "price": 250
+         },
+         {
+           "id": 6,
+           "picture": "https://i.ibb.co/z2rWBR7/Food.png",
+           "title": "Food Relief Program",
+           "category": "Food",
+           "category_bg_color": "#F8714733",
+           "card_bg_color": "#F8714726",
+           "text_button_bg_color": "#F87147",
+           "description": "Help combat hunger by contributing to our food relief program. Your donation ensures that no one goes to bed hungry.",
+           "price": 240
+         },
+         {
+           "id": 7,
+           "picture": "https://i.ibb.co/Wf9cvWQ/Clothing.png",
+           "title": "Donation for Clothing Drive",
+           "category": "Clothing",
+           "category_bg_color": "#79C23F33",
+           "card_bg_color": "#79C23F26",
+           "text_button_bg_color": "#79C23F",
+           "description": "Your contribution will help provide clothing to those in need. Give the gift of warmth and comfort today.",
+           "price": 220
+         },
+         {
+           "id": 8,
+           "picture": "https://i.ibb.co/vYRWT5b/Health.png",
+           "title": "Healthcare Access Initiative",
+           "category": "Health",
+           "category_bg_color": "#0052FF33",
+           "card_bg_color": "#0052FF26",
+           "text_button_bg_color": "#0052FF",
+           "description": "Support our mission to improve healthcare access for communities in need. Your donation can save lives.",
+           "price": 200
+         },
+         {
+           "id": 9,
+           "picture": "https://i.ibb.co/Wf9cvWQ/Clothing.png",
+           "title": "Donation for Clothing Drive",
+           "category": "Clothing",
+           "category_bg_color": "#79C23F33",
+           "card_bg_color": "#79C23F26",
+           "text_button_bg_color": "#79C23F",
+           "description": "Your contribution will help provide clothing to those in need. Give the gift of warmth and comfort today.",
+           "price": 220
+         },
+         {
+           "id": 10,
+           "picture": "https://i.ibb.co/T8Lh4PN/Education.png",
+           "title": "Education Support Fund",
+           "category": "Education",
+           "category_bg_color": "#FF444A33",
+           "card_bg_color": "#FF444A26",
+           "text_button_bg_color": "#FF444A",
+           "description": "Empower individuals with the gift of education. Your donation can make a significant impact on someone's future.",
+           "price": 250
+         },
+         {
+           "id": 11,
+           "picture": "https://i.ibb.co/vYRWT5b/Health.png",
+           "title": "Healthcare Access Initiative",
+           "category": "Health",
+           "category_bg_color": "#0052FF33",
+           "card_bg_color": "#0052FF26",
+           "text_button_bg_color": "#0052FF",
+           "description": "Support our mission to improve healthcare access for communities in need. Your donation can save lives.",
+           "price": 200
+         },
+         {
+           "id": 12,
+           "picture": "https://i.ibb.co/z2rWBR7/Food.png",
+           "title": "Food Relief Program",
+           "category": "Food",
+           "category_bg_color": "#F8714733",
+           "card_bg_color": "#F8714726",
+           "text_button_bg_color": "#F87147",
+           "description": "Help combat hunger by contributing to our food relief program. Your donation ensures that no one goes to bed hungry.",
+           "price": 240
+         }
+       ]
+     
