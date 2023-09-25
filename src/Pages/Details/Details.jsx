@@ -19,11 +19,11 @@ const Details = () => {
         const addToDonation = [];
 
         const storedItems = JSON.parse(localStorage.getItem('donation'))
-        console.log(storedItems)
+       
         if (!storedItems) {
             addToDonation.push(selectedCard)
             localStorage.setItem('donation', JSON.stringify(addToDonation))
-            swal("Good job!", "You clicked the button!", "success");
+            
         }
         else {
 
@@ -33,7 +33,7 @@ const Details = () => {
                 localStorage.setItem('donation', JSON.stringify(addToDonation))
             }
             else {
-                alert("added")
+                alert("alsdhf")
             }
 
 

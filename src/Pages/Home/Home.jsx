@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Header from '../../components/Header/Header';
-import { useLoaderData } from 'react-router-dom';
+
 import Cards from '../../components/Cards/Cards';
 
 const Home = () => {
@@ -13,7 +13,6 @@ const Home = () => {
         .then(data => setCards(data));
     },[])
 
-    
     return (
         <div>
             <Header></Header>
